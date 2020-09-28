@@ -12,9 +12,5 @@ This a simple Spring Boot project with RabbitMQ. In this project a Producer Clas
 Clone the repository and build with meven. For running this project you need to install and run rabbitMQ server locally. I used default configuration properties for connet rabbitMQ with my project. You can change default user and password from application.properties file.
 
 # RabbitMQ install and Run
-Follow the link below for install and run RabbitMQ for any Operation System.
-https://www.rabbitmq.com/install-windows.html
-
-For Ubuntu 16.04 I followed below document.
-https://www.vultr.com/docs/how-to-install-rabbitmq-on-ubuntu-16-04-47
-My RabbitMQ manager Url http://127.0.0.1:15672/
+* Follow the link for install and run RabbitMQ for any Operation System. https://www.rabbitmq.com/install-windows.html
+* For Ubuntu 16.04 I followed https://www.vultr.com/docs/how-to-install-rabbitmq-on-ubuntu-16-04-47 link. RabbitMQ manager Url http://127.0.0.1:15672/
