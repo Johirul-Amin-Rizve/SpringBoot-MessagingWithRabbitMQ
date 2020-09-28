@@ -20,5 +20,6 @@ spring.rabbitmq.password = guest
 Follow the link below for install and run RabbitMQ for any Operation System.
 https://www.rabbitmq.com/install-windows.html
 
-For Ubuntu 20.04 I followed below document.
+For Ubuntu 16.04 I followed below document.
 https://www.vultr.com/docs/how-to-install-rabbitmq-on-ubuntu-16-04-47
+My RabbitMQ manager Url http://127.0.0.1:15672/
